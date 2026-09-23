@@ -1,0 +1,11 @@
+name = "playjonnyapp-com-pt"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=playjonnyapp.com.pt"
+HMAC_KEY = "f07965b7bf9ff9a48f53894ee50658cc7e0a40160095ecf3a631b36c58d30ab5"
+COOKIE_NAME = "dk7"
+PLAY_PATH = "try"
+BUTTON_ID = "pb616e72111a503225cfa1e77e646860a"
+GATE_SALT = "eb78193f982ed43e"
